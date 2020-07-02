@@ -1,6 +1,6 @@
 import discord
 import os
-
+from discord.ext import commands
 
 emojis = '🇵🇷ℹ️🇲💊'
 poehavshie = {
