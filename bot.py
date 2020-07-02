@@ -1,5 +1,5 @@
 import discord
-
+import os
 
 
 emojis = '🇵🇷ℹ️🇲💊'
